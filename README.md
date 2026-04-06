@@ -2,9 +2,13 @@
 Point of sale system for Best Buy Retail Store
 
 Authors:  Ashanti Allen & Shemar Cameron
+
  Date Created: April 2, 2026
+ 
  Course:       ITT103 - Programming Techniques
- Purpose:      Point of Sale (POS) System for Best Buy Retail Store
+ 
+ Purpose: Point of Sale (POS) System for Best Buy Retail Store
+ 
  GitHub URL:   
 
  Purpose:
