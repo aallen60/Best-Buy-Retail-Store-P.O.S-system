@@ -31,6 +31,8 @@ Authors:  Ashanti Allen & Shemar Cameron
  ============================================================
 
  ──────────────────────────────────────────────
+ 
  PRODUCT CATALOG
+ 
  Structure: { product_name: {"price": float, "stock": int} }
 
