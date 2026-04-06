@@ -10,7 +10,11 @@ Authors:  Ashanti Allen & Shemar Cameron
  Purpose: Point of Sale (POS) System for Best Buy Retail Store
  
  GitHub URL: 
+ 
  https://github.com/aallen60/Best-Buy-Retail-Store-P.O.S-system.git
+ 
+ https://github.com/scameron22-crypto/Best-Buy-Retail-Store-P.O.S-sytem.git
+
 
  Purpose:
    This program simulates a Point of Sale system allowing cashiers
